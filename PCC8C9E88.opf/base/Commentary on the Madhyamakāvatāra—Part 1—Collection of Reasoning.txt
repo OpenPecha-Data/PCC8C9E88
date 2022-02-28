@@ -1,0 +1,282 @@
+Madhyamakāvatāra: Collection of Reasoning
+
+Oral commentary by Khen Rinpoche Namdrol
+
+Motivation
+
+Please listen to this explanation with the supreme motivation of bodhicitta, wishing to attain
+perfect awakening for the sake of all sentient beings.
+
+Introduction to the Text
+
+The Collection of Middle Way Reasoning
+
+The great master Ārya Nāgārjuna was prophesied by the Buddha himself in the Root Tantra of Mañjuśrī
+(Mañjuśrīmūla Tantra):
+
+Four hundred years after I,The Tathāgata, have passed away,A monk called Nāga will appearWho
+will benefit my teachings.Reaching the bhūmi of Perfect JoyAnd living for six hundred years,This
+great being will perfectThe science of the great peacock,[1]And will understand the
+meaning of various śāstrasAnd the meaning of the absence of reality.When he leaves behind
+his mortal body,He will be reborn in Sukhāvatī.And ultimately, he will certainly gainhe
+perfect fruit of buddhahood itself.
+
+He was also prophesied in the Great Cloud Sūtra (Mahāmegha-sūtra) and the Sūtra of the Great
+Drum (Mahābherīhārakaparivarta-sūtra).
+
+Ārya Nāgārjuna's two main treatises—the so-called ‘body’ treatises—are Root Verses on the Middle
+Way (Mūlamadhyamakakārikā) and Sixty Verses on Reasoning. The text we are concerned with
+here is the Introduction to the Middle Way ( Madhyamakāvatāra) by Candrakirti, which is
+a commentary on the meaning of the Root Verses.
+
+Generally speaking, Nāgārjuna composed treatises on all five sciences. Those on the science
+of the inner meaning, i.e., the Buddhadharma, primarily teach the aspects of view and conduct.
+In describing the view and the conduct of the Dharma, Nāgārjuna employs both scriptural
+quotations and reasoning. The treatise that mostly uses quotations from the scriptures
+is the Compendium of Sūtras (Sūtrasamuccaya). It draws from the sutras in order to explain
+and clarify the aspects of view and conduct.
+
+There are three collections that mainly employ reasoning in order to clarify the view and the
+conduct of the buddhist teachings. They are the Collection of Reasoning, the Collection
+of Praises and the Collection of Advice.
+
+The Collection of Praises relates mainly to the final turning of the Wheel of Dharma. It includes
+eulogies in praise of the ground, the path and the fruition.
+
+The Collection of Advice relates mainly to the first turning. It includes the advice to the
+king known as the Precious Garland[2] as well as the Letter to a Friend.[3]
+
+According to some past scholars the Collection of Reasoning was originally referred to simply
+as ‘the collection’ or ‘the teachings’ of logical reasoning and the number of texts it contained
+was not specified. Others, such as Mabja Changchub Tsöndrü[4] and the omniscient
+Gowo Rabjampa,[5] insist that the Collection of Reasoning contains a specific number of texts.
+They differ in the texts they identify; yet they agree on the principle that the number
+of texts in the collection is fixed.
+
+Mabja Changchub Tsöndrü said that the Collection of Reasoning contains six texts. Among these,
+he said, two texts are likened to the body, and this is clear because it is stated so in
+Candrakīrti’s commentary to Sixty Verses on Reasoning. The two body-like texts are Root
+Verses on the Middle Way and Sixty Verses on Reasoning. In addition, Mabja Changchub Tsöndrü
+goes on, there are four branch or limb-like treatises. He claims that this derives from
+Candrakīrti’s Commentary to the Sixty Verses on Reasoning, where it is explained how these
+four texts are elaborations upon the two fundamental treatises. However, this text only
+describes Refutation of Objections[6] and Seventy Stanzas on Emptiness[7] as extensions of
+the main two treatises. It does not mention Crushing to Fine Powder[8] or Conventional Existence,[9]
+which are the other texts Mabja Changchub Tsöndrü includes among the collection.
+
+Gorampa disagrees with Mabja Changchub Tsöndrü because of this very point. It is clear, he says,
+that Refutation of Objections and Seventy Verses on Emptiness are branch-like treatises,
+because the way in which they are extensions of the main two treatises is clearly explained.
+As for Crushing to Fine Powder, Gorampa believes that it too may be counted as a branch-like
+treatise, and in this it seems he is in agreement with many past scholars. He also
+agrees that the main topic of Crushing to Fine Powder is the refutation of the so-called
+‘sixteen topics (Skt. padārtha) of the dialecticians.’ As the text itself says:
+
+With the pride of intellectual knowledge,They seek to engage in debate.In order that they might
+relinquish such pride,I shall explain the Crushing to Fine Powder.[10]
+
+So, Crushing to a Fine Powder is included among the branch-like treatises.
+
+Mabja Changchub Tsöndrü includes Conventional Existence among the branch-like treatises. This
+is because the teachings of the Root Verses of the Middle Way on how all phenomena are naturally
+beyond arising and empty might cause one to doubt whether all phenomena are non-existent
+even at the conventional level, rather like the horns of a rabbit or the horns of
+a donkey. Therefore Conventional Existence was taught, it is said, in order to dispel this
+misunderstanding, and to show how at the conventional level all phenomena are illusory and
+dream-like. So Mabja Changchub Tsöndrü claims that there are six texts in the Collection
+of Reasoning, and that one of them is Conventional Existence.
+
+The Omniscient Longchenpa also states that there are six texts in the Collection of Reasoning,
+the sixth being Conventional Existence.
+
+Gorampa disputes the inclusion of Conventional Existence. In the first place, he objects to
+this on the grounds that it was not translated into Tibetan. He goes on to say that it probably
+did not exist even in India because Candrakīrti fails to mention it at the end of his
+Clear Words[11] commentary upon the Root Verses on the Middle Way when listing all the Madhyamaka
+texts that he had studied. If Conventional Existence really was the work of Nāgārjuna,
+Gorampa argues, then Candrakīrti would certainly have studied it. This is the relevant
+section of Clear Words:
+
+What I have shown here is based on my study of the Compendium of Sūtras, the Advice of the Precious
+Garland and In Praise of the Authentic, and also, for a long time and with great effort,
+the Kārikās from the treatise of Ārya [Nāgārjuna] , and the Sixty Verses on Reasoning,
+Crushing to Fine Powder and Seventy Stanzas on Emptiness as well as Refutation of Objections
+too. I also looked into the [Four] Hundred Verses and so on, and many profound sutras,
+as well as the commentary composed by Buddhapālita and that which was well explained by
+Bhāvaviveka—all these texts one after another—and I have also included what I have discovered
+through my own investigations, bringing everything together in order to delight all
+those with intelligence.[12]
+
+It is because it is not among the works listed here that Gorampa felt Conventional Existence
+was unknown in India.
+
+As stated earlier, Mabja Changchub Tsöndrü was amongst those earlier scholars who believed that
+Conventional Existence should be included in the Collection of Reasoning. Mabja Changchub
+Tsöndrü’s main teacher was Lotsawa Patsab Nyima Drakpa[13] who actually translated the
+Introduction to the Middle Way from Sanskrit into Tibetan, as the translator’s colophon at
+the end of the text says:
+
+…by the Indian abbot Tilaka Kalasha and the Tibetan translator, the monk Patsab Nyima Drak….
+
+And, what is more, Mabja Changchub Tsöndrü was not just an average student; he was one of the
+four great disciples of Patsab Nyima Drakpa, the so-called ‘four sons’ of Patsab , i.e.,
+Geshe Putowa from Central Tibet, Sokpa Yeshe Jungne from Changthang, and Tsangpa Sarbö and
+Mabja Changchub Tsöndrü from Tsang.[14]
+
+So it seems strange that one of the principal students of this great Tibetan translator who
+worked in collaboration with an Indian scholar to translate Candrakīrti’s text would consider
+a non-existent text to exist, and, not only that, but also for it to be the work of Nāgārjuna,
+and to be included within his Collection of Reasoning. If there were a reason to
+doubt the existence of the text in India or its authorship, Mabja Changchub Tsöndrü would
+surely have been aware of it. There is no obvious reason why he would endorse a spurious text,
+or its subject matter, or why he might wish to see it included in the Collection of Reasoning.
+Lotsawa Patsab Nyima Drakpa was one of the great translators and Mabja Changchub
+Tsöndrü was his direct disciple. They would certainly have known whether or not there was
+a text by Ārya Nāgārjuna called Conventional Existence. And they would certainly not have
+attributed existence to such a text if there were no grounds for doing so. This must be our
+conclusion too, if we investigate the matter. Hence, Gyalse Shenpen Taye, the Omniscient
+Longchenpa and others include Conventional Existence in the Collection of Reasoning and
+the reasons for its exclusion provided by Gorampa may be considered insufficient.
+
+The Treasury of Secret Mantra Scripture[15] is a text belonging to the category of terma related
+to the cycle of Deshek Düpa, and it includes statements by Vimalamitra, Guru Rinpoche,
+Namkhe Nyingpo and Vairotsana. This text also refers to a six-fold Collection of Reasoning,
+but it gives the sixth text as Beyond All Fear.[16] According to Indian scholars and the
+earlier Tibetan commentators Beyond All Fear_is a work of Ārya Nāgārjuna. Nevertheless,
+it is a commentary on the Root Verses on the Middle Way, and therefore differs from the other
+body-lilke or branch-like treatises of the collection. All the same, earlier scholars
+considered it an ‘auto-commentary’ to the Root Verses_composed by Nāgārjuna himself. More
+recently however, Gorampa and others have expressed doubts about this, primarily because
+the text includes a citation from Āryadeva’s Four Hundred Verses.[17] Āryadeva was Nāgārjuna’s
+pupil, and it seems unlikely that in commenting upon a text that he himself had written,
+Nāgārjuna would quote his own student. So there are those who doubt the attribution of
+Beyond All Fear to Nāgārjuna.
+
+Gorampa and others who have questioned its attribution to Nāgārjuna have also expressed further
+misgivings about Beyond All Fear. Why, they ask, would Candrakīrti have composed his Clear
+Words commentary to the Root Verses if Nāgārjuna himself had already composed an auto-commentary?
+And, furthermore, why is it that there are no quotations drawn from Beyond All
+Fear in the writings of Buddhapālita? The answer can only be, Gorampa and the others claim,
+that the text in question is not in fact a genuine work of Nāgārjuna.
+
+Whether or not Nāgārjuna wrote Beyond All Fear, it is perhaps best not to include it in the
+Collection of Reasoning. It is preferable to classify it as a commentary on the Root Verses.
+If all the commentaries composed by Nāgārjuna were to be included in the Collection of
+Reasoning we would have to include his commentary on Refutation of Objections and other texts
+and we might end up with something more like an eight-fold collection!
+
+There are eight commentaries on the Root Verses in the Tengyur, one of which is Beyond All Fear.
+There are also those by Devaśarma, Guṇamati, Guṇaśrī, Sthiramati, Buddhapālita, Bhāvaviveka
+and Candrakīrti. Although there is some controversy over whether or not Beyond All
+Fear is an auto-commentary (i.e. by Nāgārjuna himself), the fact that it is a commentary is
+beyond dispute. And according to the Treasury of Secret Mantra Quotations it is one of the
+six treatises in the Collection of Reasoning.
+
+According to Gorampa, there are only five texts in the Collection of Reasoning.[18] Among these,
+the two likened to the body are Root Verses on the Middle Way and Sixty Verses on Reasoning.
+Although they are both body-like texts we can draw a distinction between the two.
+Some past scholars explained that the Root Verses teach a freedom from the eight extremes
+of elaboration, i.e., ceasing and arising, non-existence and eternalism, coming and going,
+multiplicity and singularity, whereas the Sixty Verses on Reasoning teaches a freedom from
+four extremes, i.e., arising, ceasing, existence and non-existence. Others have explained
+that the Root Verses refute the assertions of true existence made by both Buddhist proponents
+of true entities and non-Buddhist tīrthika philosophers; whereas the Sixty Verses on
+Reasoning refutes only the assertions of true existence made by proponents of entities within
+the Buddhist tradition. Mabja Changchub Tsöndrü explained the difference between the
+two texts in the following way. He said that the Root Verses teaches emptiness of inherent
+nature by means of elimination and negation; whereas the Sixty Verses on Reasoning teaches
+emptiness of inherent nature by exclusively establishing the illusory nature of the conventional.
+
+In any case, these are the two ‘body-like treatises’ and the so-called ‘branch-like treatises’
+extend from these.
+
+According to Gorampa, the first ‘branch-like treatise’ is the ‘treatise refuting the views imputed
+by others’. The ‘views imputed by others’ are the sixteen categories of words and meanings
+of the dialecticians, and the treatise that refutes these is Crushing to Fine Powder.
+
+According to our own tradition, once again the two body-like treatises are the Root Verses on
+the Middle Way and the Sixty Verses on Reasoning. Then, among the branch-like treatises,
+Refutation of Objections is said to be an expansion of the first section of the Root Verses
+on ‘Examining Conditions’. The Root Verses teaches how there can be no arising of something
+from itself or from something other than itself, and therefore brings certainty in the
+non-arising of all phenomena. The proponents of entities respond by saying that if this
+were the case, then even Mādhyamika reasoning is without true nature. And since this reasoning
+is without true nature then it is not able to refute the claims made in favour of true
+existence. It is therefore unreasonable, they say, to claim that all phenomena are ultimately
+beyond arising, or beyond the two extremes of eternalism and nihilism. It is said that
+Refutation of Objections was composed in order to refute such arguments. In the text, it
+is stated that from the point of view of reality itself, the Mādhyamikas have nothing to
+refute, and have no reasoning by which they might do so. From the conventional perspective
+however, even though reasoning is not truly existent, the Mādhyamikas are still able to
+refute the assertions made by the proponents of entities, rather like a magically-created,
+illusory army warding off attack. For example, in the first verse of the Refutation of Objections,
+it is said:[19]
+
+If all entities are non-existentBy their very nature, thenYour words also lack realityAnd can
+not refute true existence.
+
+In his response, Nāgārjuna makes such statements as:[20]
+
+Since there is nothing whatsoever to refuteI do not refute anything.Therefore when you say that
+I refuteThat itself is incorrect.
+
+Seventy Stanzas on Emptiness is an expansion of the section of the Root Verses on ‘Examining
+the Conditioned’, which includes a discussion of how arising, dwelling and ceasing cannot
+be established. The proponents of true entities respond to this by pointing out that in many
+profound sutras taught by the Buddha, it is stated that conditioned phenomena are subject
+to arising, dwelling and ceasing. The Mādhyamika replies that this is true only from the
+mistaken viewpoint of the conventional. This is the essence of the discussion found in
+the Seventy Stanzas on Emptiness.
+
+So Refutation of Objections and Seventy Stanzas on Emptiness are direct extensions from the
+body-like treatises.
+
+Gorampa, as it was said earlier, identifies only five texts in the Collection of Reasoning.
+The omniscient Longchenpa identifies six texts, and his list accords with that of Mabja Changchub
+Tsöndrü.
+
+Among the New Translation schools, the Gelugpas claim that the Precious Garland is the sixth
+text in the collection. Gorampa opposed this by pointing out that the Precious Garland is
+classified as advice, and therefore belongs to the Collection of Advice, not the Collection
+of Reasoning. In Candrakīrti’s Clear Words, for instance, which I quoted earlier, it is
+referred to as ‘the _Advice of the Precious Garland_’.
+
+In any case, whether five or six texts are included, this is what is known as Ārya Nāgārjuna’s
+Collection of Reasoning.
+
+i.e., alchemy.  ↩Ratnāvalī (rin chen phreng ba). See Nāgārjuna, Buddhist Advice for Living and
+Liberation: Nāgārjuna's Precious Garland, trans. Jeffrey Hopkins, Ithaca: Snow Lion, 1998.
+↩Suhṛllekha (spring yig). See Nagarjuna’s Letter to a Friend with Commentary by Kyabje
+Kangyur Rinpoche, trans. Padmakara Translation Group, Ithaca: Snow Lion, 2006.  ↩Mabja Changchub
+Tsöndrü (rma bya byang chub brtson 'grus, ?-1185).  ↩Gorampa Sonam Senge (go rams
+pa bsod nams seng ge), the famous Sakyapa scholar (1429-1489).  ↩Vigrahavyāvartanī-kārikā
+(rtsod pa bzlog pa'i le'ur byas pa). See _The Dialectical Method of Nāgārjuna, trans. K.
+Bhattacharya, Delhi: Motilal Banarsidass, 1978.  ↩Śūnyatā-saptatikārikā (stong pa nyid bdun
+bcu pa'i le'ur byas pa). See Nagarjuna’s Seventy Stanzas: A Buddhist Psychology of Emptiness,
+David Ross Komito, Snow Lion, 1999.  ↩Vaidalya-sūtra (zhib mo rnam par thag pa).  ↩Vyavaharasiddhi
+(tha snyad grub pa).  ↩རྟོག་གེ་ཤེས་པའི་ང་རྒྱལ་གྱིས། །གང་ཞིག་རྩོད་པར་མངོན་འདོད་པ།
+།དེ་ཡི་ང་རྒྱལ་སྤང་བའི་ཕྱིར། །ཞིབ་མོ་རྣམ་འཐག་བཤད་པར་བྱ། །  ↩Prasannapadā (tshig gsal).
+See Lucid Exposition of the Middle Way, trans. M. Sprung, London: Routledge & Kegan Paul,
+1979.  ↩པར་འཐག་བཅས་སྟོང་ཉིད་བདུན་ཅུ་པ་དེ་དང། གང་ཡང་རྩོད་པ་རྣམ་པར་བཟློག་པ་བཀོད་པ་དེ་དག་ཀྱང་ནི་མཐོང་གྱུར་ཞིང།
+བརྒྱ་པ་ལ་སོགས་དེ་དག་དང་ནི་དེ་བཞིན་མདོ་སྡེ་ཟབ་མོ་རྣམ་མང་དང། སངས་རྒྱས་བསྐྱངས་ཀྱིས་མཛད་པའི་འགྲེལ་པ་མཐོང་ནས་ལེགས་ལྡན་བྱེད་ཀྱིས་ལེགས་བཤད་གང།
+གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་ལས་འོངས་དང་བདག་གིས་རྣམ་པར་ཕྱེ་ལས་རྙེད་པ་གང།་དེ་དག་བསྡམས་ཏེ་བློ་ཆེན་ལྡན་རྣམས་མགུ་བར་བྱ་ཕྱིར་ཡང་དག་བསྟན་པ་ཡིན།
+།  ↩Patsab Nyima Drakpa (pa tshab nyi ma grags pa, 1055-1145?).  ↩There
+so-called ‘Four Sons of Patsab’ are referred to in a verse of Taktsang Lotsawa: As regards
+the Great Middle Way, the supreme tradition of Nagarjuna,The excellent clarifications made
+by Candra[kīrti], translated by Nyima [Drak],Came down to the four sons…. There are different
+ways of listing them. According to one, they were: (1) Gangpa She’u, who was learned
+in the words, (2) Tsangpa Dregur (གཙང་པ་འབྲེ་སྒུར། or གཙང་པ་འབྲེ་སྐུར།), who was learned
+in the meaning, (3) Mabja Changchub Tsöndrü, who was learned in both words and meaning, and
+(4) Shangthang Sakpa Yeshe Jungne, who was learned in neither words nor meaning. Shakya
+Chokden names Tsangpa Sarbö (གཙང་པ་སར་སྦོས།) as the son who was learned in the words and Daryulwa
+Rinchen Drak as the son learned in the meaning. See Tashi Tsering, Madhyamakavatara
+of Acarya Candrakirti, Sarnath: Central Institute of Higher Tibetan Studies, 2005, p. 48
+and Shakya Chokden, Three Texts on Madhyamaka, trans. Komarovski Iaroslav, Dharamsala: Library
+of Tibetan Works and Archives, 2002. p. 23.  ↩gsang sngags lung gi bang mdzod (གསང་སྔགས་ལུང་གི་བང་མཛོད།)
+↩Mūlamadhyamakavrittyakutobhaya (དབུ་མ་རྩ་བའི་འགྲེལ་པ་ག་ལས་འཇིགས་མེད།)
+↩Catuḥśataka (bzhi brgya pa). See Sonam, R. (trans.) Yogic Deeds of Bodhisattvas, Gyel-tsap
+on Āryadeva’s Four Hundred, Snow Lion, 1994.  ↩This is also the assertion of Khenpo
+Namdrol’s teacher, Khenpo Tsöndrü. See Preliminaries to the Explanation of the Prajñāpāramitā
+↩གལ་ཏེ་དངོས་པོ་ཐམས་ཅད་ཀྱི། །རང་བཞིན་ཀུན་ལ་ཡོད་མིན་ན། །ཁྱོད་ཀྱི་ཙིག་ཀྱང་རང་བཞིན་མེད། །རང་བཞིན་བཟློག་པར་མི་ནུས་སོ།
+།  ↩Verse 64: དགག་བྱ་ཅི་ཡང་མེད་པས་ན། །ང་ནི་ཅི་ཡང་མི་འགོག་གོ། །དེ་ཕྱིར་འགོག་པ་བྱེད་དོ་ཞེས།
+།ཡང་དག་མིན་ཏེ་ཁྱོད་ཀྱིས་སྨྲས། །  ↩
